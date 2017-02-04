@@ -3,6 +3,6 @@ lang
 	Language "English"
 	Tokens
 	{
-		modname_Chapter1_Title	"Chapter 1 title"
+		modname_Chapter1_Title	"First Level"
 	}
 }
