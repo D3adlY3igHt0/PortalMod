@@ -8,8 +8,8 @@
 	nocrosshair	1
 	nomodels	1
  
-	developer		" Dennis "
-	developer_url		" Blacksabbah.com "
+	developer		" Dennis , Paul , Damia "
+	developer_url		" https://github.com/D3adlY3igHt0 "
 	manual		" - "
 	icon		"resource/icon"
  
